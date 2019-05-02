@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  width: 620px;
+}
+
+div {
+  width: 100px;
+  height: 200px;
+  margin-left: 20px;
+  background-color: #808080;
+}
