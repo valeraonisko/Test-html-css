@@ -21,3 +21,15 @@ article {
   margin: 20px 0 0 20px;
   background-color: #808080;
 }
+
+@media (max-width: 1023px) {
+   main {
+     width: 500px;
+   }
+}
+
+@media (max-width: 639px) {
+   main {
+     width: 380px;
+   }
+}
