@@ -3,12 +3,16 @@
   padding: 0;
 }
 
+body {
+  display: flex;
+}
+
 main {
   display: flex;
   flex-wrap: wrap;
   align-content: flex-start;
-  /* justify-content: space-between; */
   width: 620px;
+  margin: 0 auto;
 }
 
 article {
